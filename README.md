@@ -175,8 +175,8 @@ Yes. but this correlation is not as strong as expected, which means that in term
 However, when using a percentage scale we can see there is a relation, but that doesn't mean the more the PHDs the higher the chance the client will accept the offer.
 
 <p float="left">
-  <img src="ifood_marketing_campaign/images/presentation/accepted_education_1.png" width="450" />
-  <img src="ifood_marketing_campaign/images/presentation/accepted_%_education_1.png" width="450" />
+  <img src="ifood_marketing_campaign/images/presentation/accepted_education_1.png" width="400" />
+  <img src="ifood_marketing_campaign/images/presentation/accepted_%_education_1.png" width="400" />
 </p>   
    
 
