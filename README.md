@@ -157,7 +157,7 @@ We don't have data about frequency of dates of purchases. Howerver...
    
 ### Customers with higher income brings more revenue.
 
-Yes. but this correlation is not as strong as expected, which means that in terms of revenue the difference may not be that large.
+Yes, but this correlation is not as strong as expected, which means that in terms of revenue the difference may not be that large, since the minimum revenue values across the incomes are pretty close.
 
 <p float="center">
     <img src="ifood_marketing_campaign/images/presentation/mean_amount_month_by_income_1.png" width="750" />
