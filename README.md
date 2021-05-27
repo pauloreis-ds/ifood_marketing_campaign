@@ -43,9 +43,9 @@ Perform robust exploratory analysis, using advanced analytics tools and statisti
 
 **Estimated Revenue for Next Campaign:**
 
-> Worst Scenario: R\\$ 15,675.73 <br>
-> **Expected:       R\\$ 17,390.27** <br>
-> Best Scenario:  R\\$ 19,104.80 <br>
+> Worst Scenario: R$ 15,675.73 <br>
+> **Expected:       R$ 17,390.27** <br>
+> Best Scenario:  R$ 19,104.80 <br>
 >
 > ___
 >
@@ -56,7 +56,7 @@ Perform robust exploratory analysis, using advanced analytics tools and statisti
 > _had a profit of -3.046MU. The success rate of the campaign was 15%."_
 
 <p style="text-align: justify;">
-<b>The predictive model created has a precision of 71%. Which means that from those customers that the algorithm identifies as a potential acceptor of the offer, 71% of them will actually accept it. Thus, when using the model in the next campaign, We estimate a revenue that can vary from R\$ 15,600.00 to R\$ 19,100.00</b>
+<b>The predictive model created has a precision of 71%. Which means that from those customers that the algorithm identifies as a potential acceptor of the offer, 71% of them will actually accept it. Thus, when using the model in the next campaign, We estimate a revenue that can vary from R$ 15,600.00 to R$ 19,100.00</b>
 </p>
 
     With an increase on ROI that is very significant. 
@@ -127,7 +127,7 @@ People use 50% of their spends on wine. As I mentioned earlier ... This could be
 ### Which sales channel brings the most revenue?
 
 <p style="text-align: justify;">
-Physical stores have a higher number of purchases, so it is expected that they generate more revenue ... and yes, <b>44% (R\$ 37,400) of the revenue comes from stores</b>. ... and with a conversion rate of 77%, attracting people to the web platform appears to be a good investment.
+Physical stores have a higher number of purchases, so it is expected that they generate more revenue ... and yes, <b>44% (R$ 37,400) of the revenue comes from stores</b>. ... and with a conversion rate of 77%, attracting people to the web platform appears to be a good investment.
 </p>
 
         29% (R$ 24,650) of monthly estimated revenue comes from web and 27% (R$ 22,900) from catalog.
