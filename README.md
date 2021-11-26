@@ -116,7 +116,7 @@ The cluster of our interest we can see that they are the ones that spend the mos
 </p>
 
 <p style="text-align: justify;">
-People use 50% of their spends on wine. As I mentioned earlier ... This could be a sign for a future campaign. <b>We can focus on making wine sales even stronger or raising the average ticket for other more profitable products</b>. Either way, we need more data to understand why this happens and to be more assertive about which way to go.
+People use 50% of their spends on wine. As I mentioned earlier ... This could be a sign for a future campaign. <b>We can focus on making wine sales even stronger with an "up selling" strategy or use cross-selling to raise the average ticket of other products</b>. For now, up selling is the our best shot, because we need data about the orders to apply a market basket analysis and figure out which products would have higher ROI (return on investment) on cross-selling.
 </p>
 
 <p float="center">
